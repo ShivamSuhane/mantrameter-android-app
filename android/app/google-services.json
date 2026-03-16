@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33866769980",
+    "project_id": "mantra-meter",
+    "storage_bucket": "mantra-meter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33866769980:android:5eb0c0c95d0b077e8bc539",
+        "android_client_info": {
+          "package_name": "com.mantrameter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33866769980-gacvvti5u6u3520j8gfjf40f88816sfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mantrameter.app",
+            "certificate_hash": "b4733d5a0e4b23e8b09d66e02af0c0d2eb7a4a7f"
+          }
+        },
+        {
+          "client_id": "33866769980-cq7umijdlko8qj6anfqlcui95tvcekth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd2g7mMcijvDGb1ZTUxDVV337a-r-YBog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33866769980-cq7umijdlko8qj6anfqlcui95tvcekth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
